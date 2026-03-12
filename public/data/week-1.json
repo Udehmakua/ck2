@@ -1,0 +1,66 @@
+{
+  "week": 1,
+  "dateRange": "9th - 15th March",
+  "winners": [
+    {
+      "userId": "10199701",
+      "rank": 1,
+      "multiplier": 198.45,
+      "driverTitle": "Chairman of the Road"
+    },
+    {
+      "userId": "10199702",
+      "rank": 2,
+      "multiplier": 187.23,
+      "driverTitle": "Chairman of the Road"
+    },
+    {
+      "userId": "10199703",
+      "rank": 3,
+      "multiplier": 176.01,
+      "driverTitle": "Chairman of the Road"
+    },
+    {
+      "userId": "10199704",
+      "rank": 4,
+      "multiplier": 164.79,
+      "driverTitle": "Chairman of the Road"
+    },
+    {
+      "userId": "10199705",
+      "rank": 5,
+      "multiplier": 153.57,
+      "driverTitle": "Chairman of the Road"
+    },
+    {
+      "userId": "10199706",
+      "rank": 6,
+      "multiplier": 144.33,
+      "driverTitle": "Senior Driver"
+    },
+    {
+      "userId": "10199707",
+      "rank": 7,
+      "multiplier": 135.09,
+      "driverTitle": "Senior Driver"
+    },
+    {
+      "userId": "10199708",
+      "rank": 8,
+      "multiplier": 125.85,
+      "driverTitle": "Senior Driver"
+    },
+    {
+      "userId": "10199709",
+      "rank": 9,
+      "multiplier": 116.61,
+      "driverTitle": "Senior Driver"
+    },
+    {
+      "userId": "10199710",
+      "rank": 10,
+      "multiplier": 107.37,
+      "driverTitle": "Senior Driver"
+    }
+  ]
+}
