@@ -52,7 +52,7 @@ export function TodayWinners({ winners }: TodayWinnersProps) {
     <section className="space-y-6">
       <div>
         <h2 className="text-3xl md:text-4xl font-bold mb-2" style={{ color: '#001041' }}>
-          Today's Winners
+          Daily Leaderboard
         </h2>
         <p className="text-gray-600">
           Top 100 performers for {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
