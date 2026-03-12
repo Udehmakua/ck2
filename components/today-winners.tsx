@@ -32,7 +32,7 @@ const driverCategories: { title: DriverTitle; label: string; color: { bg: string
   {
     title: 'Keke Pilot',
     label: 'Keke Pilot',
-    color: { bg: '#00BCD4', text: '#001041' },
+    color: { bg: '#1AFFFF', text: '#001041' },
     rankRange: 'Rank 16-40'
   },
   {
