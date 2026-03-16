@@ -65,15 +65,11 @@ export default function LeaderboardPage() {
             Leaderboard
           </h1>
           <p className="text-gray-600 text-lg">
-            Daily rankings and rewards for our top performers
+            Daily rankings and rewards for Chicken Keke top players
           </p>
         </div>
 
-        {/* Prize Distribution Section */}
-        <div className="mb-16 md:mb-20">
-          <PrizeTable />
-        </div>
-
+      
         {/* Today's Winners Section */}
         <div className="mb-16 md:mb-20">
           <TodayWinners winners={today?.winners || []} />
@@ -89,6 +85,12 @@ export default function LeaderboardPage() {
             ]}
           />
         </div>
+
+         {/* Prize Distribution Section */}
+        <div className="mb-16 md:mb-20">
+          <PrizeTable />
+        </div>
+        
       </div>
     </main>
   );
