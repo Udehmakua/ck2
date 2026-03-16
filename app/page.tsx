@@ -60,14 +60,14 @@ export default function LeaderboardPage() {
     <main className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #EEF2FA, white)' }}>
       <div className="container mx-auto px-4 py-8 md:py-12 max-w-6xl">
         {/* Header */}
-        <div className="mb-12 md:mb-16">
+        {/* <div className="mb-12 md:mb-16">
           <h1 className="text-4xl md:text-5xl font-bold mb-3" style={{ color: '#001041' }}>
             Leaderboard
           </h1>
           <p className="text-gray-600 text-lg">
             Daily rankings and rewards for Chicken Keke top players
           </p>
-        </div>
+        </div> */}
 
       
         {/* Today's Winners Section */}
