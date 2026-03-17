@@ -1,9 +1,5 @@
 {
-  "week": 2,
-  "dateRange": "16th - 22nd March",
-  "winners": [
-    {
-  "date": "2026-03-15",
+  "date": "2026-03-16",
   "winners": [
     { "userId": "14378111", "rank": 1, "multiplier": 284.98, "driverTitle": "Chairman of the Road" },
     { "userId": "14191330", "rank": 2, "multiplier": 236.29, "driverTitle": "Chairman of the Road" },
@@ -113,7 +109,5 @@
     { "userId": "14283626", "rank": 98, "multiplier": 25.69, "driverTitle": "Owa Master" },
     { "userId": "14327887", "rank": 99, "multiplier": 25.68, "driverTitle": "Owa Master" },
     { "userId": "1166578", "rank": 100, "multiplier": 25.66, "driverTitle": "Owa Master" }
-  ]
-}
   ]
 }
