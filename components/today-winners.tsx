@@ -55,8 +55,7 @@ export function TodayWinners({ winners }: TodayWinnersProps) {
           Daily Leaderboard
         </h2>
         <p className="text-gray-600">
-          Top 100 players for
-            {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+          Top 100 players for {new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
         </p>
       </div>
 
